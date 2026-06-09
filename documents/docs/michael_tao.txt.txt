@@ -1,0 +1,19 @@
+# Professor: Michael Tao
+# Department: Computer Science
+# School: New York University
+# RMP URL: https://www.ratemyprofessors.com/professor/2910630
+
+Rating: 2/5 | Difficulty: 4/5 | Course: CSCI-UA 101 | Date: Feb 2nd, 2026
+Tests are extremely long, quite difficult compared to covered lectures and content. The test questions are hard to even understand. Most of the class did not finish Exam II or III. Very hard tests, assignments easy. Tough grader. Accessible outside class.
+
+Rating: 3/5 | Difficulty: 3/5 | Course: CSCI-UA 101 | Date: Dec 17th, 2025
+Not a bad professor. Lectures can be boring but it's good to study them for exams. The concepts aren't that difficult either, it's just that the tests are confusing and really long to the point where you probably won't finish. Coding assignments take a long time too but you have 1-2 weeks to do them. Accessible outside class.
+
+Rating: 3/5 | Difficulty: 4/5 | Course: CSCI-UA 101 | Date: Jun 14th, 2025
+Honestly Tao has me the most conflicted out of anybody I've had this semester. He's really nice and it's clear he cares about the class. But those tests made me feel like I was racing a bullet train while on a tricycle. If you're strong in CS I can recommend him but if you aren't, just get ready to prepare heavily for the tests.
+
+Rating: 1/5 | Difficulty: 5/5 | Course: CSCI-UA 101 | Date: Jun 14th, 2025
+His exams are long and tough. He requires hand-written code for all his exams and I think more than half of the class fails the 2nd midterm. Just don't take his course if you want to have a good grade. Tough grader. Test heavy.
+
+Rating: 4/5 | Difficulty: 4/5 | Course: CSCI-UA 101 | Date: Jan 24th, 2025
+The exams ARE hard and stressful, as other comments said. But I do think it gets better when you're getting used to it, and he is friendly in grading (but slow which is so annoying..) Overall I would say I really had a solid foundation of programming by taking him. By all the practice problems you can see an interesting person. Caring. Test heavy.
