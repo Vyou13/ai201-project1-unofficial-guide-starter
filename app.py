@@ -106,4 +106,6 @@ with gr.Blocks(title="NYU CS Professor Reviews") as demo:
     )
 
 if __name__ == "__main__":
-    demo.launch()
+    # inbrowser=True auto-opens a browser tab; otherwise open the URL printed below manually.
+    print("Starting NYU CS Professor Review search — open http://localhost:7860 if no tab opens.")
+    demo.launch(inbrowser=True)
